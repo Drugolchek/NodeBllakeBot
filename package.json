@@ -1,0 +1,17 @@
+{
+  "name": "blakebot",
+  "version": "1.0.0",
+  "description": "Discord bot for contract and bonus management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["discord", "bot"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
